@@ -31,7 +31,7 @@
 ``` 
 ### 4. Демонстрация работы программы
 
-![telegram-cloud-photo-size-2-5346124133718232438-y](https://github.com/user-attachments/assets/bd1c5032-5ee8-4753-b04b-e0b96f2fea9c)
+<img width="874" height="666" alt="image" src="https://github.com/user-attachments/assets/54049890-dced-461e-b18d-a7bd3763fb35" />
 
 ### 5. Результаты экспериментов  
 
