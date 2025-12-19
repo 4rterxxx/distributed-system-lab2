@@ -1,0 +1,1 @@
+gcc -fopenmp -O2 mandelbrot.c -o mandelbrot_omp -lm
